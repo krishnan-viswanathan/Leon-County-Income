@@ -3,4 +3,4 @@ This page was created to test the proposition that Tallahassee is the most [econ
 
 # Data
 
-The data used for this exercise is the 2000 Census and ACS 2009 -- 2013 which are available in the Data Repository along with the shapefiles for 2000 and 2013. Note that in 2000 Leon County had 48 Tracts and in 2013 there are 68 Tracts. More details can be found **[here](https://github.com/krishnan-viswanathan/Leon-County-Income/wiki)**
+The data used for this exercise is the 2000 Census and ACS 2009 -- 2013 which are available in the Data Repository along with the shapefiles for 2000 and 2013. Note that in **2000 Leon County had 48 Tracts** and in **2013 there are 68 Tracts**. More details can be found **[here](https://github.com/krishnan-viswanathan/Leon-County-Income/wiki)**
